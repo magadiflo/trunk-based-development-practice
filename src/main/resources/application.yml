@@ -5,3 +5,5 @@ spring:
 app:
   cache:
     ttl: 60s
+  timeout: 5s
+
