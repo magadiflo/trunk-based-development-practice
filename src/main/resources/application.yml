@@ -1,3 +1,7 @@
 spring:
   application:
     name: trunk-based-development-practice
+
+app:
+  cache:
+    ttl: 60s
